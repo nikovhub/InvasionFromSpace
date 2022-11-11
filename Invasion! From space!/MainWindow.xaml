@@ -1,0 +1,19 @@
+﻿<Window x:Name="Invasion" x:Class="Invasion__From_space_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Invasion__From_space_"
+        mc:Ignorable="d"
+        Title="Invasion!  From Space!" Height="1217.333" Width="1200" FocusManager.FocusedElement="{Binding ElementName=PlayerCanvas}">
+    <Grid>
+
+        <Canvas Name="PlayerCanvas" Background="DarkBlue" HorizontalAlignment="Left" Height="1192" VerticalAlignment="Top" Width="1192" KeyDown="heroship_KeyDown" Focusable="True">
+            <Image x:Name="heroship" Height="60" Canvas.Left="550" Source="heroship.png" Stretch="Fill" Canvas.Top="1102" Width="90" />
+            <Image x:Name="nuke" Height="47" Canvas.Left="592" Canvas.Top="535" Width="48" RenderTransformOrigin="0.506,0.512" Source="nuke.png" Visibility="Hidden"/>
+            <Image x:Name="deathray" Height="1133" Canvas.Left="584" Source="deathray.png" Stretch="Fill" Canvas.Top="-31" Width="24" Visibility="Hidden"/>
+
+        </Canvas>
+
+    </Grid>
+</Window>

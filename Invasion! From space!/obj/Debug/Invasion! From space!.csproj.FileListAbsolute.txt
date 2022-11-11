@@ -1,0 +1,15 @@
+C:\Users\niko.virta\Documents\GitHub\c-basics-wpf-nikovhub\3\Invasion! From space!\Invasion! From space!\bin\Debug\Invasion! From space!.exe.config
+C:\Users\niko.virta\Documents\GitHub\c-basics-wpf-nikovhub\3\Invasion! From space!\Invasion! From space!\obj\Debug\Invasion! From space!.csprojResolveAssemblyReference.cache
+C:\Users\niko.virta\Documents\GitHub\c-basics-wpf-nikovhub\3\Invasion! From space!\Invasion! From space!\obj\Debug\MainWindow.g.cs
+C:\Users\niko.virta\Documents\GitHub\c-basics-wpf-nikovhub\3\Invasion! From space!\Invasion! From space!\obj\Debug\App.g.cs
+C:\Users\niko.virta\Documents\GitHub\c-basics-wpf-nikovhub\3\Invasion! From space!\Invasion! From space!\obj\Debug\Invasion! From space!_MarkupCompile.cache
+C:\Users\niko.virta\Documents\GitHub\c-basics-wpf-nikovhub\3\Invasion! From space!\Invasion! From space!\obj\Debug\Invasion! From space!_MarkupCompile.lref
+C:\Users\niko.virta\Documents\GitHub\c-basics-wpf-nikovhub\3\Invasion! From space!\Invasion! From space!\bin\Debug\Invasion! From space!.exe
+C:\Users\niko.virta\Documents\GitHub\c-basics-wpf-nikovhub\3\Invasion! From space!\Invasion! From space!\bin\Debug\Invasion! From space!.pdb
+C:\Users\niko.virta\Documents\GitHub\c-basics-wpf-nikovhub\3\Invasion! From space!\Invasion! From space!\obj\Debug\MainWindow.baml
+C:\Users\niko.virta\Documents\GitHub\c-basics-wpf-nikovhub\3\Invasion! From space!\Invasion! From space!\obj\Debug\Invasion! From space!.g.resources
+C:\Users\niko.virta\Documents\GitHub\c-basics-wpf-nikovhub\3\Invasion! From space!\Invasion! From space!\obj\Debug\Invasion__From_space_.Properties.Resources.resources
+C:\Users\niko.virta\Documents\GitHub\c-basics-wpf-nikovhub\3\Invasion! From space!\Invasion! From space!\obj\Debug\Invasion__From_space_.Resource1.resources
+C:\Users\niko.virta\Documents\GitHub\c-basics-wpf-nikovhub\3\Invasion! From space!\Invasion! From space!\obj\Debug\Invasion! From space!.csproj.GenerateResource.Cache
+C:\Users\niko.virta\Documents\GitHub\c-basics-wpf-nikovhub\3\Invasion! From space!\Invasion! From space!\obj\Debug\Invasion! From space!.exe
+C:\Users\niko.virta\Documents\GitHub\c-basics-wpf-nikovhub\3\Invasion! From space!\Invasion! From space!\obj\Debug\Invasion! From space!.pdb
